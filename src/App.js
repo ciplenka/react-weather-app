@@ -28,7 +28,7 @@ function App() {
         </div>
         <div className="linkSource">
           <a
-            href="https://github.com/ciplenka/awesome-app"
+            href="https://github.com/ciplenka/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
